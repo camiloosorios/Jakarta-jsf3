@@ -1,0 +1,13 @@
+org\aguzman\webapp\jsf3\repositories\ProductoRepository.class
+org\aguzman\webapp\jsf3\controllers\LenguajeController.class
+org\aguzman\webapp\jsf3\services\ProductoService.class
+org\aguzman\webapp\jsf3\controllers\ProductoController.class
+org\aguzman\webapp\jsf3\entities\Categoria.class
+org\aguzman\webapp\jsf3\entities\Producto.class
+org\aguzman\webapp\jsf3\services\ProductoServiceImpl.class
+org\aguzman\webapp\jsf3\ProducerResources.class
+org\aguzman\webapp\jsf3\repositories\ProductoRepositoryImpl.class
+org\aguzman\webapp\jsf3\repositories\CategoriaRepositoryImpl.class
+org\aguzman\webapp\jsf3\repositories\CrudRepository.class
+org\aguzman\webapp\jsf3\ProducerEntityManager.class
+org\aguzman\webapp\jsf3\converters\CategoriaConverter.class
